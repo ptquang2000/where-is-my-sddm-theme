@@ -1,6 +1,6 @@
 #!/bin/bash
 
-THEME_SOURCE=https://github.com/stepanzubkov/where-is-my-sddm-theme.git
+THEME_SOURCE=https://github.com/ptquang2000/where-is-my-sddm-theme.git
 if [[ -n $USE_QT5 ]]; then
     THEME_DIR=where_is_my_sddm_theme_qt5
 else
